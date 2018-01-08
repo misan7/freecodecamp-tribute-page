@@ -1,3 +1,14 @@
 body {
   margin-top: 20px;
+  width: 100%;
+}
+
+#moreInfo {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  max-width: 500px;
+}
+
+#title1 {
+  margin-bottom: 25px;
 }
