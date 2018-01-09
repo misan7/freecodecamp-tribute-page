@@ -4,6 +4,7 @@ body {
 }
 
 #moreInfo {
+  margin: auto;
   margin-top: 10px;
   margin-bottom: 20px;
   max-width: 500px;
